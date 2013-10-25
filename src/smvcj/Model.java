@@ -357,21 +357,19 @@ public class Model extends Database
 
 			if( save( query))
 			{
-				Database idb = new Database();
-
-				if( idb.read( "SELECT LAST_INSERT_ID() as id;"))
+				if( read( "SELECT LAST_INSERT_ID() as id"))
 				{
-					last_id = idb.getRow().get( "id");
+					last_id = getRow().get( "id");
 
 					colArr.put( PKName, last_id);
 
-					Log.logWrite( "INFO  Model::insert() : Success => " +query);
+					Log.logWrite( "INFO  Model::insert() : Success => " last_id+ "/" +query);
 
 					return true;
 				}
 				else
 				{
-					Log.logWrite( "ERROR Model::insert() : Fail => " +query);
+					Log.logWrite( "WARN  Model::insert() : Fail get last inserted id. => " +query);
 
 					return false;
 				}
