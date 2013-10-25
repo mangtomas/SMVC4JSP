@@ -1,0 +1,731 @@
+[2013-10-11 16:42:08]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:42:08]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:42:08]Database->__construct : Database connection success.
+[2013-10-11 16:42:08]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:42:08]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:42:08]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:42:08]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:42:08]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:42:29]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:42:29]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:42:29]Database->__construct : Database connection success.
+[2013-10-11 16:42:29]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:42:29]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:42:29]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:42:29]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:42:29]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:42:37]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:42:37]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:42:37]Database->__construct : Database connection success.
+[2013-10-11 16:42:37]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:42:37]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:42:37]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:42:37]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:42:37]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:42:43]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:42:43]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:42:43]Database->__construct : Database connection success.
+[2013-10-11 16:42:43]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:42:43]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:42:43]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:42:43]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:42:43]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:43:06]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:43:06]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:43:06]Database->__construct : Database connection success.
+[2013-10-11 16:43:06]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:43:06]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:43:06]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:43:06]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:43:06]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:50:26]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:50:26]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:50:26]Database->__construct : Database connection success.
+[2013-10-11 16:50:26]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:50:26]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:50:26]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:50:26]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:50:26]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:50:27]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:50:27]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:50:27]Database->__construct : Database connection success.
+[2013-10-11 16:50:27]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:50:27]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:50:27]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:50:27]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:50:27]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:50:29]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:50:29]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:50:29]Database->__construct : Database connection success.
+[2013-10-11 16:50:29]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:50:29]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:50:29]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:50:29]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:50:29]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:50:30]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:50:30]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:50:30]Database->__construct : Database connection success.
+[2013-10-11 16:50:30]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:50:30]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:50:30]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:50:30]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:50:30]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:50:31]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:50:31]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:50:31]Database->__construct : Database connection success.
+[2013-10-11 16:50:31]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:50:31]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:50:31]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:50:31]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:50:31]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:50:35]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:50:35]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:50:35]Database->__construct : Database connection success.
+[2013-10-11 16:50:35]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:50:35]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:50:35]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:50:35]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:50:35]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:50:36]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:50:36]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:50:36]Database->__construct : Database connection success.
+[2013-10-11 16:50:36]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:50:36]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:50:36]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:50:36]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:50:36]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:50:37]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:50:37]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:50:37]Database->__construct : Database connection success.
+[2013-10-11 16:50:37]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:50:37]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:50:37]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:50:37]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:50:37]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:50:38]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:50:38]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:50:38]Database->__construct : Database connection success.
+[2013-10-11 16:50:38]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:50:38]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:50:38]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:50:38]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:50:38]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:50:39]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:50:39]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:50:39]Database->__construct : Database connection success.
+[2013-10-11 16:50:39]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:50:39]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:50:39]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:50:39]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:50:39]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:50:40]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:50:40]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:50:40]Database->__construct : Database connection success.
+[2013-10-11 16:50:40]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:50:40]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:50:40]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:50:40]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:50:40]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:50:41]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:50:41]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:50:41]Database->__construct : Database connection success.
+[2013-10-11 16:50:41]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:50:41]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:50:41]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:50:41]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:50:41]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:50:42]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:50:42]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:50:42]Database->__construct : Database connection success.
+[2013-10-11 16:50:42]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:50:42]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:50:42]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:50:42]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:50:42]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:50:43]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:50:43]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:50:43]Database->__construct : Database connection success.
+[2013-10-11 16:50:43]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:50:43]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:50:43]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:50:43]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:50:43]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:50:44]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:50:44]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:50:44]Database->__construct : Database connection success.
+[2013-10-11 16:50:44]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:50:44]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:50:44]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:50:44]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:50:44]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:51:18]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:51:18]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:51:18]Database->__construct : Database connection success.
+[2013-10-11 16:51:18]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:51:18]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:51:18]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:51:18]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:51:18]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:51:26]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:51:26]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:51:26]Database->__construct : Database connection success.
+[2013-10-11 16:51:26]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:51:26]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:51:26]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:51:26]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:51:26]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:52:16]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:52:16]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:52:16]Database->__construct : Database connection success.
+[2013-10-11 16:52:16]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:52:16]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:52:16]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:52:16]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:52:16]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:52:36]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:52:36]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:52:36]Database->__construct : Database connection success.
+[2013-10-11 16:52:36]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:52:36]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:52:36]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:52:36]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:52:36]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:52:37]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:52:37]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:52:37]Database->__construct : Database connection success.
+[2013-10-11 16:52:37]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:52:37]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:52:37]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:52:37]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:52:37]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:52:38]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:52:38]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:52:38]Database->__construct : Database connection success.
+[2013-10-11 16:52:38]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:52:38]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:52:38]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:52:38]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:52:38]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:52:39]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:52:39]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:52:39]Database->__construct : Database connection success.
+[2013-10-11 16:52:39]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:52:39]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:52:39]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:52:39]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:52:39]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:52:40]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:52:40]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:52:40]Database->__construct : Database connection success.
+[2013-10-11 16:52:40]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:52:40]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:52:40]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:52:40]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:52:40]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:56:11]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:56:11]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:56:11]Database->__construct : Database connection success.
+[2013-10-11 16:56:11]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:56:11]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:56:11]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:56:11]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:56:11]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:56:13]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:56:13]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:56:13]Database->__construct : Database connection success.
+[2013-10-11 16:56:13]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:56:13]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:56:13]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:56:13]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:56:13]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:56:19]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:56:19]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:56:19]Database->__construct : Database connection success.
+[2013-10-11 16:56:19]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:56:19]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:56:19]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:56:19]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:56:19]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:56:24]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 16:56:24]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:56:24]Database->__construct : Database connection success.
+[2013-10-11 16:56:24]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:56:24]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:56:24]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:56:24]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 16:56:24]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 16:57:00]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:00]Database->__construct : Database connection success.
+[2013-10-11 16:57:00]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:00]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:00]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='n';
+[2013-10-11 16:57:00]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:00]Database->__construct : Database connection success.
+[2013-10-11 16:57:00]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:00]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:00]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='na';
+[2013-10-11 16:57:01]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:01]Database->__construct : Database connection success.
+[2013-10-11 16:57:01]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:01]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:01]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='nam';
+[2013-10-11 16:57:01]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:01]Database->__construct : Database connection success.
+[2013-10-11 16:57:01]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:01]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:01]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='nama';
+[2013-10-11 16:57:02]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:02]Database->__construct : Database connection success.
+[2013-10-11 16:57:02]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:02]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:02]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='nam';
+[2013-10-11 16:57:03]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:03]Database->__construct : Database connection success.
+[2013-10-11 16:57:03]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:03]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:03]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='name';
+[2013-10-11 16:57:09]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:09]Database->__construct : Database connection success.
+[2013-10-11 16:57:09]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:09]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:09]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='nam';
+[2013-10-11 16:57:09]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:09]Database->__construct : Database connection success.
+[2013-10-11 16:57:09]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:09]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:09]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='na';
+[2013-10-11 16:57:10]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:10]Database->__construct : Database connection success.
+[2013-10-11 16:57:10]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:10]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:10]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='n';
+[2013-10-11 16:57:10]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:10]Database->__construct : Database connection success.
+[2013-10-11 16:57:10]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:10]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:10]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='';
+[2013-10-11 16:57:11]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:11]Database->__construct : Database connection success.
+[2013-10-11 16:57:11]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:11]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:11]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='n';
+[2013-10-11 16:57:11]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:11]Database->__construct : Database connection success.
+[2013-10-11 16:57:11]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:11]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:11]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='na';
+[2013-10-11 16:57:11]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:11]Database->__construct : Database connection success.
+[2013-10-11 16:57:11]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:11]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:11]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='nam';
+[2013-10-11 16:57:11]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:11]Database->__construct : Database connection success.
+[2013-10-11 16:57:11]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:11]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:11]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='name';
+[2013-10-11 16:57:13]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:13]Database->__construct : Database connection success.
+[2013-10-11 16:57:13]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:13]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:13]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='nam';
+[2013-10-11 16:57:14]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:14]Database->__construct : Database connection success.
+[2013-10-11 16:57:14]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:14]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:14]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='na';
+[2013-10-11 16:57:14]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:14]Database->__construct : Database connection success.
+[2013-10-11 16:57:14]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:14]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:14]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='n';
+[2013-10-11 16:57:15]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:15]Database->__construct : Database connection success.
+[2013-10-11 16:57:15]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:15]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:15]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='';
+[2013-10-11 16:57:15]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:15]Database->__construct : Database connection success.
+[2013-10-11 16:57:15]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:15]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:15]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='n';
+[2013-10-11 16:57:15]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:15]Database->__construct : Database connection success.
+[2013-10-11 16:57:15]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:15]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:15]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='na';
+[2013-10-11 16:57:15]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:15]Database->__construct : Database connection success.
+[2013-10-11 16:57:15]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:15]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:15]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='nam';
+[2013-10-11 16:57:15]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:15]Database->__construct : Database connection success.
+[2013-10-11 16:57:15]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:15]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:15]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='name';
+[2013-10-11 16:57:18]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:18]Database->__construct : Database connection success.
+[2013-10-11 16:57:18]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:18]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:18]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='nam';
+[2013-10-11 16:57:18]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:18]Database->__construct : Database connection success.
+[2013-10-11 16:57:18]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:18]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:18]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='na';
+[2013-10-11 16:57:18]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:18]Database->__construct : Database connection success.
+[2013-10-11 16:57:18]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:18]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:18]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='n';
+[2013-10-11 16:57:18]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:18]Database->__construct : Database connection success.
+[2013-10-11 16:57:18]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:18]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:18]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='';
+[2013-10-11 16:57:18]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:18]Database->__construct : Database connection success.
+[2013-10-11 16:57:18]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:18]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:18]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='';
+[2013-10-11 16:57:20]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:20]Database->__construct : Database connection success.
+[2013-10-11 16:57:20]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:20]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:20]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='n';
+[2013-10-11 16:57:20]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:20]Database->__construct : Database connection success.
+[2013-10-11 16:57:20]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:20]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:20]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='na';
+[2013-10-11 16:57:20]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:20]Database->__construct : Database connection success.
+[2013-10-11 16:57:20]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:20]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:20]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='nam';
+[2013-10-11 16:57:20]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:20]Database->__construct : Database connection success.
+[2013-10-11 16:57:20]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:20]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:20]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='name';
+[2013-10-11 16:57:25]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:25]Database->__construct : Database connection success.
+[2013-10-11 16:57:25]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:25]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:25]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='';
+[2013-10-11 16:57:27]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:27]Database->__construct : Database connection success.
+[2013-10-11 16:57:27]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:27]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:27]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='n';
+[2013-10-11 16:57:27]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:27]Database->__construct : Database connection success.
+[2013-10-11 16:57:27]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:27]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:27]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='na';
+[2013-10-11 16:57:28]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:28]Database->__construct : Database connection success.
+[2013-10-11 16:57:28]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:28]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:28]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='nam';
+[2013-10-11 16:57:28]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 16:57:28]Database->__construct : Database connection success.
+[2013-10-11 16:57:28]Database->save Query : SET NAMES utf8;
+[2013-10-11 16:57:28]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 16:57:28]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='name';
+[2013-10-11 17:02:05]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:02:05]Database->__construct : Database connection success.
+[2013-10-11 17:02:05]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:02:05]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:02:05]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='';
+[2013-10-11 17:02:38]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:02:38]Database->__construct : Database connection success.
+[2013-10-11 17:02:38]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:02:38]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:02:38]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='n';
+[2013-10-11 17:09:35]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:09:35]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:09:35]Database->__construct : Database connection success.
+[2013-10-11 17:09:35]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:09:35]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:09:35]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:09:35]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:09:35]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:09:42]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:09:42]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:09:42]Database->__construct : Database connection success.
+[2013-10-11 17:09:42]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:09:42]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:09:42]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:09:42]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:09:42]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:09:44]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:09:44]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:09:44]Database->__construct : Database connection success.
+[2013-10-11 17:09:44]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:09:44]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:09:44]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:09:44]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:09:44]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:09:45]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:09:45]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:09:45]Database->__construct : Database connection success.
+[2013-10-11 17:09:45]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:09:45]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:09:45]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:09:45]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:09:45]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:09:46]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:09:46]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:09:46]Database->__construct : Database connection success.
+[2013-10-11 17:09:46]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:09:46]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:09:46]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:09:46]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:09:46]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:09:47]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:09:47]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:09:47]Database->__construct : Database connection success.
+[2013-10-11 17:09:47]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:09:47]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:09:47]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:09:47]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:09:47]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:09:48]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:09:48]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:09:48]Database->__construct : Database connection success.
+[2013-10-11 17:09:48]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:09:48]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:09:48]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:09:48]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:09:48]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:09:49]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:09:49]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:09:49]Database->__construct : Database connection success.
+[2013-10-11 17:09:49]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:09:49]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:09:49]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:09:49]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:09:49]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:09:49]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:09:49]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:09:49]Database->__construct : Database connection success.
+[2013-10-11 17:09:49]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:09:49]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:09:49]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:09:49]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:09:49]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:09:50]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:09:50]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:09:50]Database->__construct : Database connection success.
+[2013-10-11 17:09:50]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:09:50]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:09:50]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:09:50]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:09:50]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:09:53]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:09:53]Database->__construct : Database connection success.
+[2013-10-11 17:09:53]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:09:53]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:09:53]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='n';
+[2013-10-11 17:09:55]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:09:55]Database->__construct : Database connection success.
+[2013-10-11 17:09:55]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:09:55]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:09:55]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='na';
+[2013-10-11 17:09:57]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:09:57]Database->__construct : Database connection success.
+[2013-10-11 17:09:57]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:09:57]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:09:57]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='nam';
+[2013-10-11 17:09:57]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:09:57]Database->__construct : Database connection success.
+[2013-10-11 17:09:57]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:09:57]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:09:57]Database->read Query : SELECT f_idx FROM t_test WHERE f_key='name';
+[2013-10-11 17:13:33]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:13:33]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:13:33]Database->__construct : Database connection success.
+[2013-10-11 17:13:33]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:13:33]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:13:33]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:33]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:33]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:13:35]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:13:35]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:13:35]Database->__construct : Database connection success.
+[2013-10-11 17:13:35]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:13:35]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:13:35]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:35]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:35]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:13:36]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:13:36]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:13:36]Database->__construct : Database connection success.
+[2013-10-11 17:13:36]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:13:36]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:13:36]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:36]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:36]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:13:36]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:13:36]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:13:36]Database->__construct : Database connection success.
+[2013-10-11 17:13:36]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:13:36]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:13:36]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:36]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:36]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:13:37]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:13:37]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:13:37]Database->__construct : Database connection success.
+[2013-10-11 17:13:37]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:13:37]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:13:37]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:37]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:37]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:13:37]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:13:37]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:13:37]Database->__construct : Database connection success.
+[2013-10-11 17:13:37]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:13:37]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:13:37]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:37]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:37]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:13:37]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:13:37]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:13:37]Database->__construct : Database connection success.
+[2013-10-11 17:13:37]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:13:37]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:13:37]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:37]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:37]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:13:37]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:13:37]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:13:37]Database->__construct : Database connection success.
+[2013-10-11 17:13:37]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:13:37]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:13:37]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:37]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:37]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:13:37]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:13:37]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:13:37]Database->__construct : Database connection success.
+[2013-10-11 17:13:37]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:13:37]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:13:37]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:37]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:37]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:13:38]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:13:38]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:13:38]Database->__construct : Database connection success.
+[2013-10-11 17:13:38]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:13:38]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:13:38]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:38]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:38]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:13:38]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:13:38]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:13:38]Database->__construct : Database connection success.
+[2013-10-11 17:13:38]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:13:38]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:13:38]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:38]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:38]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:13:38]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:13:38]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:13:38]Database->__construct : Database connection success.
+[2013-10-11 17:13:38]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:13:38]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:13:38]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:38]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:38]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:13:38]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:13:38]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:13:38]Database->__construct : Database connection success.
+[2013-10-11 17:13:38]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:13:38]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:13:38]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:38]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:38]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:13:40]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:13:40]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:13:40]Database->__construct : Database connection success.
+[2013-10-11 17:13:40]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:13:40]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:13:40]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:40]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:40]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:13:42]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:13:42]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:13:42]Database->__construct : Database connection success.
+[2013-10-11 17:13:42]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:13:42]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:13:42]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:42]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:42]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:13:43]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:13:43]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:13:43]Database->__construct : Database connection success.
+[2013-10-11 17:13:43]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:13:43]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:13:43]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:43]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:43]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:13:44]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:13:44]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:13:44]Database->__construct : Database connection success.
+[2013-10-11 17:13:44]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:13:44]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:13:44]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:44]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:13:44]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:16:05]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:16:05]Database->__construct : Database connection success.
+[2013-10-11 17:16:05]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:16:05]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:16:05]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:16:05]Database->save Query : INSERT INTO t_test(f_key,f_val) VALUES ('birth','0628');
+[2013-10-11 17:16:05]Database->__construct : Database connection success.
+[2013-10-11 17:16:05]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:16:05]Database->read Query : SELECT LAST_INSERT_ID() as id;
+[2013-10-11 17:16:05]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:16:05]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:16:05]Database->__construct : Database connection success.
+[2013-10-11 17:16:05]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:16:05]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:16:05]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:16:05]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:16:05]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:16:28]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:16:28]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:16:28]Database->__construct : Database connection success.
+[2013-10-11 17:16:28]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:16:28]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:16:28]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:16:28]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:16:28]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:16:35]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:16:35]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:16:35]Database->__construct : Database connection success.
+[2013-10-11 17:16:35]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:16:35]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:16:35]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:16:35]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:16:35]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:16:36]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:16:36]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:16:36]Database->__construct : Database connection success.
+[2013-10-11 17:16:36]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:16:36]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:16:36]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:16:36]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:16:36]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-11 17:16:37]Controller->__construct Warning : There is NO REQUESTS.
+[2013-10-11 17:16:37]Controller->__construct Warning : There is NO SESSIONS.
+[2013-10-11 17:16:37]Database->__construct : Database connection success.
+[2013-10-11 17:16:37]Database->save Query : SET NAMES utf8;
+[2013-10-11 17:16:37]Database->read Query : SHOW COLUMNS FROM `t_test`;
+[2013-10-11 17:16:37]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:16:37]Model->getPKVal Error : Primary key value is empty
+[2013-10-11 17:16:37]Database->read Query : SELECT f_key,f_val,f_idx FROM t_test ;

@@ -1,0 +1,78 @@
+================================================================================
+Semi Model View Controller Structure for JSP By Jin-Hwan, Kim
+================================================================================
+project*/
+	__controller_backend/
+		controller for backend Files(action*.target*(.property*).jsp)
+		.
+		.
+		.
+
+	__controller_ui/
+		controller for UI Files(action*.target*(.property*).jsp)
+		.
+		.
+		.
+
+	_doc/
+		structure.txt
+
+	_log/
+		log_yyyyMMdd.txt
+		.
+		.
+		.
+
+	img/
+
+	css/
+		common.css
+
+	js/
+		common.js
+		jquery.js
+
+	view Files(action*.target*.jsp)
+	.
+	.
+	.
+
+
+
+	META-INF/
+		MANIFEST.MF
+
+	WEB-INF/
+		classes/
+			smvcj/
+				Config.class
+				Log.class
+				Database.class
+				Model.class
+				Controller.class
+
+			models/
+				target*.class
+				.
+				.
+				.
+
+		lib/
+			cos.jar
+			java-image-scaling-0.8.5.jar
+			mysql-connector-java-5.1.26-bin.jar
+			.
+			.
+			.
+
+
+		licenses/
+
+		web.xml
+
+================================================================================
+*project  : project name
+*action   : [ dml, add, mod, del, chk, inc, ... ]
+*target   : target object name
+*property : property name
+================================================================================
