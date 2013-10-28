@@ -2,7 +2,7 @@
     <wb-module deploy-name="smvcj">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="smvcj"/>
         <property name="java-output-path" value="/smvcj/build/classes"/>
+        <property name="context-root" value="smvcj"/>
     </wb-module>
 </project-modules>

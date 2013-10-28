@@ -363,7 +363,7 @@ public class Model extends Database
 
 					colArr.put( PKName, last_id);
 
-					Log.logWrite( "INFO  Model::insert() : Success => " last_id+ "/" +query);
+					Log.logWrite( "INFO  Model::insert() : Success => " +last_id+ "/" +query);
 
 					return true;
 				}
