@@ -40,7 +40,7 @@ public class Config
 	public Config()
 	{
 
-		__DOC_ROOT__     = "E:/WORK/smvcj/WebContent/";
+		__DOC_ROOT__     = "E:/SMVC4JSP/WebContent/";
 
 		__SERVICE_NAME__ = "smvcj";
 		__SERVICE_HOST__ = "http://localhost:9080/smvcj/";

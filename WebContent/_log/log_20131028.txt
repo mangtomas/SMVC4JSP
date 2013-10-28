@@ -1,0 +1,32 @@
+[2013-10-28 17:12:48]====================================================================================================
+[2013-10-28 17:12:48]|     CONTENT_TYPE : null
+[2013-10-28 17:12:48]|  PATH_TRANSLATED : null
+[2013-10-28 17:12:48]|      SERVER_PORT : 9080
+[2013-10-28 17:12:48]|      SCRIPT_NAME : /dml.test.jsp
+[2013-10-28 17:12:48]|      REMOTE_ADDR : 0:0:0:0:0:0:0:1
+[2013-10-28 17:12:48]|    DOCUMENT_ROOT : E:\WORK\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\smvcj\
+[2013-10-28 17:12:48]|      REMOTE_HOST : 0:0:0:0:0:0:0:1
+[2013-10-28 17:12:48]|  SERVER_SOFTWARE : Apache Tomcat/7.0.42
+[2013-10-28 17:12:48]|      SERVER_NAME : localhost
+[2013-10-28 17:12:48]|      REMOTE_USER : null
+[2013-10-28 17:12:48]|     HTTP_XXX_YYY : null
+[2013-10-28 17:12:48]|        PATH_INFO : null
+[2013-10-28 17:12:48]|     QUERY_STRING : null
+[2013-10-28 17:12:48]|        AUTH_TYPE : null
+[2013-10-28 17:12:48]|  SERVER_PROTOCOL : HTTP/1.1
+[2013-10-28 17:12:48]|   REQUEST_METHOD : GET
+[2013-10-28 17:12:48]|   CONTENT_LENGTH : -1
+[2013-10-28 17:12:48]====================================================================================================
+[2013-10-28 17:12:48]WARN  Controller::Controller( 'request', 'response') : There is NO REQUESTS.
+[2013-10-28 17:12:48]WARN  Controller::Controller( 'request', 'response') : There is NO SESSIONS.
+[2013-10-28 17:12:48]INFO  Controller::Controller( 'request', 'response') : [{'method' : 'GET'},null,{'JSESSIONID' : 'D2259ED7DF1024129CDA98DC32D396DE'},null]
+[2013-10-28 17:12:48]INFO  Controller::getReq( 'search_key') : null
+[2013-10-28 17:12:48]INFO  Database::Database() : Database connection success.
+[2013-10-28 17:12:48]QUERY Database::read( 'SHOW COLUMNS FROM `t_test`;') : Success.
+[2013-10-28 17:12:48]INFO  Model::setTable ( 't_test', 'null') : Table 't_test' read success. => f_idx,{'f_key' : '','f_val' : '','f_idx' : ''}
+[2013-10-28 17:12:48]WARN  Model::getPKVal : Primary key value is empty.
+[2013-10-28 17:12:48]WARN  Model::getPKVal : Primary key value is empty.
+[2013-10-28 17:12:48]QUERY Database::read( 'SELECT f_key,f_val,f_idx FROM t_test ;') : Success.
+[2013-10-28 17:12:48]INFO  Model::select( '', '') : Success => SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-10-28 17:12:48]INFO  Controller::vars2input( array) : Success.
+[2013-10-28 17:12:48]INFO  Controller::makeTable( 'list', 'f_idx', array) : Success.
