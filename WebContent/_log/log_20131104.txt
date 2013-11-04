@@ -1,0 +1,604 @@
+[2013-11-04 16:29:40]====================================================================================================
+[2013-11-04 16:29:40]|     CONTENT_TYPE : null
+[2013-11-04 16:29:40]|  PATH_TRANSLATED : null
+[2013-11-04 16:29:40]|      SERVER_PORT : 9080
+[2013-11-04 16:29:40]|      SCRIPT_NAME : /dml.test.jsp
+[2013-11-04 16:29:40]|      REMOTE_ADDR : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:40]|    DOCUMENT_ROOT : E:\WORK\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\smvcj\
+[2013-11-04 16:29:40]|      REMOTE_HOST : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:40]|  SERVER_SOFTWARE : Apache Tomcat/7.0.42
+[2013-11-04 16:29:40]|      SERVER_NAME : localhost
+[2013-11-04 16:29:40]|      REMOTE_USER : null
+[2013-11-04 16:29:40]|     HTTP_XXX_YYY : null
+[2013-11-04 16:29:40]|        PATH_INFO : null
+[2013-11-04 16:29:40]|     QUERY_STRING : null
+[2013-11-04 16:29:40]|        AUTH_TYPE : null
+[2013-11-04 16:29:40]|  SERVER_PROTOCOL : HTTP/1.1
+[2013-11-04 16:29:40]|   REQUEST_METHOD : GET
+[2013-11-04 16:29:40]|   CONTENT_LENGTH : -1
+[2013-11-04 16:29:40]====================================================================================================
+[2013-11-04 16:29:40]WARN  Controller::Controller( 'request', 'response') : There is NO REQUESTS.
+[2013-11-04 16:29:40]WARN  Controller::Controller( 'request', 'response') : There is NO SESSIONS.
+[2013-11-04 16:29:40]INFO  Controller::Controller( 'request', 'response') : [{'method' : 'GET'},null,{'JSESSIONID' : 'BB62E3586F5B405B26DB9C5AE7E70F19','PHPSESSID' : 'mth377o9a64nglijc40uflsrg7'},null]
+[2013-11-04 16:29:40]INFO  Controller::getReq( 'search_key') : null
+[2013-11-04 16:29:40]INFO  Database::Database() : Database connection success.
+[2013-11-04 16:29:40]QUERY Database::read( 'SHOW COLUMNS FROM `t_test`;') : Success.
+[2013-11-04 16:29:40]INFO  Model::setTable ( 't_test', 'null') : Table 't_test' read success. => f_idx,{'f_key' : '','f_val' : '','f_idx' : ''}
+[2013-11-04 16:29:40]WARN  Model::getPKVal : Primary key value is empty.
+[2013-11-04 16:29:40]WARN  Model::getPKVal : Primary key value is empty.
+[2013-11-04 16:29:40]QUERY Database::read( 'SELECT f_key,f_val,f_idx FROM t_test ;') : Success.
+[2013-11-04 16:29:40]INFO  Model::select( '', '') : Success => SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-11-04 16:29:48]====================================================================================================
+[2013-11-04 16:29:48]|     CONTENT_TYPE : null
+[2013-11-04 16:29:48]|  PATH_TRANSLATED : null
+[2013-11-04 16:29:48]|      SERVER_PORT : 9080
+[2013-11-04 16:29:48]|      SCRIPT_NAME : /dml.test.jsp
+[2013-11-04 16:29:48]|      REMOTE_ADDR : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:48]|    DOCUMENT_ROOT : E:\WORK\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\smvcj\
+[2013-11-04 16:29:48]|      REMOTE_HOST : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:48]|  SERVER_SOFTWARE : Apache Tomcat/7.0.42
+[2013-11-04 16:29:48]|      SERVER_NAME : localhost
+[2013-11-04 16:29:48]|      REMOTE_USER : null
+[2013-11-04 16:29:48]|     HTTP_XXX_YYY : null
+[2013-11-04 16:29:48]|        PATH_INFO : null
+[2013-11-04 16:29:48]|     QUERY_STRING : null
+[2013-11-04 16:29:48]|        AUTH_TYPE : null
+[2013-11-04 16:29:48]|  SERVER_PROTOCOL : HTTP/1.1
+[2013-11-04 16:29:48]|   REQUEST_METHOD : GET
+[2013-11-04 16:29:48]|   CONTENT_LENGTH : -1
+[2013-11-04 16:29:48]====================================================================================================
+[2013-11-04 16:29:48]WARN  Controller::Controller( 'request', 'response') : There is NO REQUESTS.
+[2013-11-04 16:29:48]WARN  Controller::Controller( 'request', 'response') : There is NO SESSIONS.
+[2013-11-04 16:29:48]INFO  Controller::Controller( 'request', 'response') : [{'method' : 'GET'},null,{'JSESSIONID' : 'BB62E3586F5B405B26DB9C5AE7E70F19','PHPSESSID' : 'mth377o9a64nglijc40uflsrg7'},null]
+[2013-11-04 16:29:48]INFO  Controller::getReq( 'search_key') : null
+[2013-11-04 16:29:48]INFO  Database::Database() : Database connection success.
+[2013-11-04 16:29:48]QUERY Database::read( 'SHOW COLUMNS FROM `t_test`;') : Success.
+[2013-11-04 16:29:48]INFO  Model::setTable ( 't_test', 'null') : Table 't_test' read success. => f_idx,{'f_key' : '','f_val' : '','f_idx' : ''}
+[2013-11-04 16:29:48]WARN  Model::getPKVal : Primary key value is empty.
+[2013-11-04 16:29:48]WARN  Model::getPKVal : Primary key value is empty.
+[2013-11-04 16:29:48]QUERY Database::read( 'SELECT f_key,f_val,f_idx FROM t_test ;') : Success.
+[2013-11-04 16:29:48]INFO  Model::select( '', '') : Success => SELECT f_key,f_val,f_idx FROM t_test ;
+[2013-11-04 16:29:53]====================================================================================================
+[2013-11-04 16:29:53]====================================================================================================
+[2013-11-04 16:29:53]|     CONTENT_TYPE : application/x-www-form-urlencoded; charset=UTF-8
+[2013-11-04 16:29:53]|     CONTENT_TYPE : application/x-www-form-urlencoded; charset=UTF-8
+[2013-11-04 16:29:53]|  PATH_TRANSLATED : null
+[2013-11-04 16:29:53]|  PATH_TRANSLATED : null
+[2013-11-04 16:29:53]|      SERVER_PORT : 9080
+[2013-11-04 16:29:53]|      SERVER_PORT : 9080
+[2013-11-04 16:29:53]|      SCRIPT_NAME : /__controller_backend/dml.test.key.jsp
+[2013-11-04 16:29:53]|      SCRIPT_NAME : /__controller_backend/dml.test.key.jsp
+[2013-11-04 16:29:53]|      REMOTE_ADDR : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:53]|      REMOTE_ADDR : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:53]|    DOCUMENT_ROOT : E:\WORK\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\smvcj\
+[2013-11-04 16:29:53]|    DOCUMENT_ROOT : E:\WORK\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\smvcj\
+[2013-11-04 16:29:53]|      REMOTE_HOST : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:53]|      REMOTE_HOST : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:53]|  SERVER_SOFTWARE : Apache Tomcat/7.0.42
+[2013-11-04 16:29:53]|  SERVER_SOFTWARE : Apache Tomcat/7.0.42
+[2013-11-04 16:29:53]|      SERVER_NAME : localhost
+[2013-11-04 16:29:53]|      SERVER_NAME : localhost
+[2013-11-04 16:29:53]|      REMOTE_USER : null
+[2013-11-04 16:29:53]|      REMOTE_USER : null
+[2013-11-04 16:29:53]|     HTTP_XXX_YYY : null
+[2013-11-04 16:29:53]|     HTTP_XXX_YYY : null
+[2013-11-04 16:29:53]|        PATH_INFO : null
+[2013-11-04 16:29:53]|        PATH_INFO : null
+[2013-11-04 16:29:53]|     QUERY_STRING : null
+[2013-11-04 16:29:53]|     QUERY_STRING : null
+[2013-11-04 16:29:53]|        AUTH_TYPE : null
+[2013-11-04 16:29:53]|        AUTH_TYPE : null
+[2013-11-04 16:29:53]|  SERVER_PROTOCOL : HTTP/1.1
+[2013-11-04 16:29:53]|  SERVER_PROTOCOL : HTTP/1.1
+[2013-11-04 16:29:53]|   REQUEST_METHOD : POST
+[2013-11-04 16:29:53]|   REQUEST_METHOD : POST
+[2013-11-04 16:29:53]|   CONTENT_LENGTH : 7
+[2013-11-04 16:29:53]|   CONTENT_LENGTH : 8
+[2013-11-04 16:29:53]====================================================================================================
+[2013-11-04 16:29:53]====================================================================================================
+[2013-11-04 16:29:53]WARN  Controller::Controller( 'request', 'response') : There is NO SESSIONS.
+[2013-11-04 16:29:53]WARN  Controller::Controller( 'request', 'response') : There is NO SESSIONS.
+[2013-11-04 16:29:53]INFO  Controller::Controller( 'request', 'response') : [{'method' : 'POST'},{'f_key' : 'd'},{'JSESSIONID' : 'BB62E3586F5B405B26DB9C5AE7E70F19','PHPSESSID' : 'mth377o9a64nglijc40uflsrg7'},null]
+[2013-11-04 16:29:53]INFO  Controller::Controller( 'request', 'response') : [{'method' : 'POST'},{'f_key' : 'dl'},{'JSESSIONID' : 'BB62E3586F5B405B26DB9C5AE7E70F19','PHPSESSID' : 'mth377o9a64nglijc40uflsrg7'},null]
+[2013-11-04 16:29:53]INFO  Database::Database() : Database connection success.
+[2013-11-04 16:29:53]INFO  Database::Database() : Database connection success.
+[2013-11-04 16:29:53]QUERY Database::read( 'SHOW COLUMNS FROM `t_test`;') : Success.
+[2013-11-04 16:29:53]INFO  Model::setTable ( 't_test', 'null') : Table 't_test' read success. => f_idx,{'f_key' : '','f_val' : '','f_idx' : ''}
+[2013-11-04 16:29:53]INFO  Controller::getReq( 'f_key') : dl
+[2013-11-04 16:29:53]QUERY Database::read( 'SELECT f_idx FROM t_test WHERE f_key='dl';') : Success.
+[2013-11-04 16:29:53]INFO  Model::select( 'f_idx', 'WHERE f_key='dl'') : Success => SELECT f_idx FROM t_test WHERE f_key='dl';
+[2013-11-04 16:29:53]QUERY Database::read( 'SHOW COLUMNS FROM `t_test`;') : Success.
+[2013-11-04 16:29:53]INFO  Model::setTable ( 't_test', 'null') : Table 't_test' read success. => f_idx,{'f_key' : '','f_val' : '','f_idx' : ''}
+[2013-11-04 16:29:53]INFO  Controller::getReq( 'f_key') : d
+[2013-11-04 16:29:53]QUERY Database::read( 'SELECT f_idx FROM t_test WHERE f_key='d';') : Success.
+[2013-11-04 16:29:53]INFO  Model::select( 'f_idx', 'WHERE f_key='d'') : Success => SELECT f_idx FROM t_test WHERE f_key='d';
+[2013-11-04 16:29:54]====================================================================================================
+[2013-11-04 16:29:54]|     CONTENT_TYPE : application/x-www-form-urlencoded; charset=UTF-8
+[2013-11-04 16:29:54]|  PATH_TRANSLATED : null
+[2013-11-04 16:29:54]|      SERVER_PORT : 9080
+[2013-11-04 16:29:54]|      SCRIPT_NAME : /__controller_backend/dml.test.key.jsp
+[2013-11-04 16:29:54]|      REMOTE_ADDR : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:54]|    DOCUMENT_ROOT : E:\WORK\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\smvcj\
+[2013-11-04 16:29:54]|      REMOTE_HOST : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:54]|  SERVER_SOFTWARE : Apache Tomcat/7.0.42
+[2013-11-04 16:29:54]|      SERVER_NAME : localhost
+[2013-11-04 16:29:54]|      REMOTE_USER : null
+[2013-11-04 16:29:54]|     HTTP_XXX_YYY : null
+[2013-11-04 16:29:54]|        PATH_INFO : null
+[2013-11-04 16:29:54]|     QUERY_STRING : null
+[2013-11-04 16:29:54]|        AUTH_TYPE : null
+[2013-11-04 16:29:54]|  SERVER_PROTOCOL : HTTP/1.1
+[2013-11-04 16:29:54]|   REQUEST_METHOD : POST
+[2013-11-04 16:29:54]|   CONTENT_LENGTH : 7
+[2013-11-04 16:29:54]====================================================================================================
+[2013-11-04 16:29:54]WARN  Controller::Controller( 'request', 'response') : There is NO SESSIONS.
+[2013-11-04 16:29:54]INFO  Controller::Controller( 'request', 'response') : [{'method' : 'POST'},{'f_key' : 'd'},{'JSESSIONID' : 'BB62E3586F5B405B26DB9C5AE7E70F19','PHPSESSID' : 'mth377o9a64nglijc40uflsrg7'},null]
+[2013-11-04 16:29:54]INFO  Database::Database() : Database connection success.
+[2013-11-04 16:29:54]QUERY Database::read( 'SHOW COLUMNS FROM `t_test`;') : Success.
+[2013-11-04 16:29:54]INFO  Model::setTable ( 't_test', 'null') : Table 't_test' read success. => f_idx,{'f_key' : '','f_val' : '','f_idx' : ''}
+[2013-11-04 16:29:54]INFO  Controller::getReq( 'f_key') : d
+[2013-11-04 16:29:54]QUERY Database::read( 'SELECT f_idx FROM t_test WHERE f_key='d';') : Success.
+[2013-11-04 16:29:54]INFO  Model::select( 'f_idx', 'WHERE f_key='d'') : Success => SELECT f_idx FROM t_test WHERE f_key='d';
+[2013-11-04 16:29:54]====================================================================================================
+[2013-11-04 16:29:54]|     CONTENT_TYPE : application/x-www-form-urlencoded; charset=UTF-8
+[2013-11-04 16:29:54]|  PATH_TRANSLATED : null
+[2013-11-04 16:29:54]|      SERVER_PORT : 9080
+[2013-11-04 16:29:54]|      SCRIPT_NAME : /__controller_backend/dml.test.key.jsp
+[2013-11-04 16:29:54]|      REMOTE_ADDR : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:54]|    DOCUMENT_ROOT : E:\WORK\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\smvcj\
+[2013-11-04 16:29:54]|      REMOTE_HOST : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:54]|  SERVER_SOFTWARE : Apache Tomcat/7.0.42
+[2013-11-04 16:29:54]|      SERVER_NAME : localhost
+[2013-11-04 16:29:54]|      REMOTE_USER : null
+[2013-11-04 16:29:54]|     HTTP_XXX_YYY : null
+[2013-11-04 16:29:54]|        PATH_INFO : null
+[2013-11-04 16:29:54]|     QUERY_STRING : null
+[2013-11-04 16:29:54]|        AUTH_TYPE : null
+[2013-11-04 16:29:54]|  SERVER_PROTOCOL : HTTP/1.1
+[2013-11-04 16:29:54]|   REQUEST_METHOD : POST
+[2013-11-04 16:29:54]|   CONTENT_LENGTH : 6
+[2013-11-04 16:29:54]====================================================================================================
+[2013-11-04 16:29:54]WARN  Controller::Controller( 'request', 'response') : There is NO SESSIONS.
+[2013-11-04 16:29:54]INFO  Controller::Controller( 'request', 'response') : [{'method' : 'POST'},{'f_key' : ''},{'JSESSIONID' : 'BB62E3586F5B405B26DB9C5AE7E70F19','PHPSESSID' : 'mth377o9a64nglijc40uflsrg7'},null]
+[2013-11-04 16:29:54]INFO  Database::Database() : Database connection success.
+[2013-11-04 16:29:54]QUERY Database::read( 'SHOW COLUMNS FROM `t_test`;') : Success.
+[2013-11-04 16:29:54]INFO  Model::setTable ( 't_test', 'null') : Table 't_test' read success. => f_idx,{'f_key' : '','f_val' : '','f_idx' : ''}
+[2013-11-04 16:29:54]INFO  Controller::getReq( 'f_key') : 
+[2013-11-04 16:29:54]QUERY Database::read( 'SELECT f_idx FROM t_test WHERE f_key='';') : Success.
+[2013-11-04 16:29:54]INFO  Model::select( 'f_idx', 'WHERE f_key=''') : Success => SELECT f_idx FROM t_test WHERE f_key='';
+[2013-11-04 16:29:54]====================================================================================================
+[2013-11-04 16:29:54]|     CONTENT_TYPE : application/x-www-form-urlencoded; charset=UTF-8
+[2013-11-04 16:29:54]|  PATH_TRANSLATED : null
+[2013-11-04 16:29:54]|      SERVER_PORT : 9080
+[2013-11-04 16:29:54]|      SCRIPT_NAME : /__controller_backend/dml.test.key.jsp
+[2013-11-04 16:29:54]|      REMOTE_ADDR : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:54]|    DOCUMENT_ROOT : E:\WORK\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\smvcj\
+[2013-11-04 16:29:54]|      REMOTE_HOST : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:54]|  SERVER_SOFTWARE : Apache Tomcat/7.0.42
+[2013-11-04 16:29:54]|      SERVER_NAME : localhost
+[2013-11-04 16:29:54]|      REMOTE_USER : null
+[2013-11-04 16:29:54]|     HTTP_XXX_YYY : null
+[2013-11-04 16:29:54]|        PATH_INFO : null
+[2013-11-04 16:29:54]|     QUERY_STRING : null
+[2013-11-04 16:29:54]|        AUTH_TYPE : null
+[2013-11-04 16:29:54]====================================================================================================
+[2013-11-04 16:29:54]|  SERVER_PROTOCOL : HTTP/1.1
+[2013-11-04 16:29:54]|     CONTENT_TYPE : application/x-www-form-urlencoded; charset=UTF-8
+[2013-11-04 16:29:54]|   REQUEST_METHOD : POST
+[2013-11-04 16:29:54]|  PATH_TRANSLATED : null
+[2013-11-04 16:29:54]|   CONTENT_LENGTH : 15
+[2013-11-04 16:29:54]====================================================================================================
+[2013-11-04 16:29:54]|      SERVER_PORT : 9080
+[2013-11-04 16:29:54]|      SCRIPT_NAME : /__controller_backend/dml.test.key.jsp
+[2013-11-04 16:29:54]WARN  Controller::Controller( 'request', 'response') : There is NO SESSIONS.
+[2013-11-04 16:29:54]|      REMOTE_ADDR : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:54]INFO  Controller::Controller( 'request', 'response') : [{'method' : 'POST'},{'f_key' : 'ㅇ'},{'JSESSIONID' : 'BB62E3586F5B405B26DB9C5AE7E70F19','PHPSESSID' : 'mth377o9a64nglijc40uflsrg7'},null]
+[2013-11-04 16:29:55]|    DOCUMENT_ROOT : E:\WORK\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\smvcj\
+[2013-11-04 16:29:55]|      REMOTE_HOST : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:55]|  SERVER_SOFTWARE : Apache Tomcat/7.0.42
+[2013-11-04 16:29:55]|      SERVER_NAME : localhost
+[2013-11-04 16:29:55]|      REMOTE_USER : null
+[2013-11-04 16:29:55]INFO  Database::Database() : Database connection success.
+[2013-11-04 16:29:55]|     HTTP_XXX_YYY : null
+[2013-11-04 16:29:55]|        PATH_INFO : null
+[2013-11-04 16:29:55]|     QUERY_STRING : null
+[2013-11-04 16:29:55]|        AUTH_TYPE : null
+[2013-11-04 16:29:55]QUERY Database::read( 'SHOW COLUMNS FROM `t_test`;') : Success.
+[2013-11-04 16:29:55]INFO  Model::setTable ( 't_test', 'null') : Table 't_test' read success. => f_idx,{'f_key' : '','f_val' : '','f_idx' : ''}
+[2013-11-04 16:29:55]|  SERVER_PROTOCOL : HTTP/1.1
+[2013-11-04 16:29:55]INFO  Controller::getReq( 'f_key') : ㅇ
+[2013-11-04 16:29:55]|   REQUEST_METHOD : POST
+[2013-11-04 16:29:55]|   CONTENT_LENGTH : 24
+[2013-11-04 16:29:55]QUERY Database::read( 'SELECT f_idx FROM t_test WHERE f_key='ㅇ';') : Success.
+[2013-11-04 16:29:55]INFO  Model::select( 'f_idx', 'WHERE f_key='ㅇ'') : Success => SELECT f_idx FROM t_test WHERE f_key='ㅇ';
+[2013-11-04 16:29:55]====================================================================================================
+[2013-11-04 16:29:55]WARN  Controller::Controller( 'request', 'response') : There is NO SESSIONS.
+[2013-11-04 16:29:55]INFO  Controller::Controller( 'request', 'response') : [{'method' : 'POST'},{'f_key' : 'ㅇㄹ'},{'JSESSIONID' : 'BB62E3586F5B405B26DB9C5AE7E70F19','PHPSESSID' : 'mth377o9a64nglijc40uflsrg7'},null]
+[2013-11-04 16:29:55]INFO  Database::Database() : Database connection success.
+[2013-11-04 16:29:55]QUERY Database::read( 'SHOW COLUMNS FROM `t_test`;') : Success.
+[2013-11-04 16:29:55]INFO  Model::setTable ( 't_test', 'null') : Table 't_test' read success. => f_idx,{'f_key' : '','f_val' : '','f_idx' : ''}
+[2013-11-04 16:29:55]INFO  Controller::getReq( 'f_key') : ㅇㄹ
+[2013-11-04 16:29:55]QUERY Database::read( 'SELECT f_idx FROM t_test WHERE f_key='ㅇㄹ';') : Success.
+[2013-11-04 16:29:55]INFO  Model::select( 'f_idx', 'WHERE f_key='ㅇㄹ'') : Success => SELECT f_idx FROM t_test WHERE f_key='ㅇㄹ';
+[2013-11-04 16:29:55]====================================================================================================
+[2013-11-04 16:29:55]|     CONTENT_TYPE : application/x-www-form-urlencoded; charset=UTF-8
+[2013-11-04 16:29:55]|  PATH_TRANSLATED : null
+[2013-11-04 16:29:55]|      SERVER_PORT : 9080
+[2013-11-04 16:29:55]|      SCRIPT_NAME : /__controller_backend/dml.test.key.jsp
+[2013-11-04 16:29:55]|      REMOTE_ADDR : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:55]|    DOCUMENT_ROOT : E:\WORK\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\smvcj\
+[2013-11-04 16:29:55]|      REMOTE_HOST : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:55]|  SERVER_SOFTWARE : Apache Tomcat/7.0.42
+[2013-11-04 16:29:55]|      SERVER_NAME : localhost
+[2013-11-04 16:29:55]|      REMOTE_USER : null
+[2013-11-04 16:29:55]|     HTTP_XXX_YYY : null
+[2013-11-04 16:29:55]|        PATH_INFO : null
+[2013-11-04 16:29:55]|     QUERY_STRING : null
+[2013-11-04 16:29:55]|        AUTH_TYPE : null
+[2013-11-04 16:29:55]|  SERVER_PROTOCOL : HTTP/1.1
+[2013-11-04 16:29:55]|   REQUEST_METHOD : POST
+[2013-11-04 16:29:55]|   CONTENT_LENGTH : 24
+[2013-11-04 16:29:55]====================================================================================================
+[2013-11-04 16:29:55]WARN  Controller::Controller( 'request', 'response') : There is NO SESSIONS.
+[2013-11-04 16:29:55]INFO  Controller::Controller( 'request', 'response') : [{'method' : 'POST'},{'f_key' : 'ㅇ리'},{'JSESSIONID' : 'BB62E3586F5B405B26DB9C5AE7E70F19','PHPSESSID' : 'mth377o9a64nglijc40uflsrg7'},null]
+[2013-11-04 16:29:55]INFO  Database::Database() : Database connection success.
+[2013-11-04 16:29:55]QUERY Database::read( 'SHOW COLUMNS FROM `t_test`;') : Success.
+[2013-11-04 16:29:55]INFO  Model::setTable ( 't_test', 'null') : Table 't_test' read success. => f_idx,{'f_key' : '','f_val' : '','f_idx' : ''}
+[2013-11-04 16:29:55]INFO  Controller::getReq( 'f_key') : ㅇ리
+[2013-11-04 16:29:55]QUERY Database::read( 'SELECT f_idx FROM t_test WHERE f_key='ㅇ리';') : Success.
+[2013-11-04 16:29:55]INFO  Model::select( 'f_idx', 'WHERE f_key='ㅇ리'') : Success => SELECT f_idx FROM t_test WHERE f_key='ㅇ리';
+[2013-11-04 16:29:55]====================================================================================================
+[2013-11-04 16:29:55]|     CONTENT_TYPE : application/x-www-form-urlencoded; charset=UTF-8
+[2013-11-04 16:29:55]|  PATH_TRANSLATED : null
+[2013-11-04 16:29:55]|      SERVER_PORT : 9080
+[2013-11-04 16:29:55]|      SCRIPT_NAME : /__controller_backend/dml.test.key.jsp
+[2013-11-04 16:29:55]|      REMOTE_ADDR : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:55]|    DOCUMENT_ROOT : E:\WORK\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\smvcj\
+[2013-11-04 16:29:55]|      REMOTE_HOST : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:55]|  SERVER_SOFTWARE : Apache Tomcat/7.0.42
+[2013-11-04 16:29:55]|      SERVER_NAME : localhost
+[2013-11-04 16:29:55]|      REMOTE_USER : null
+[2013-11-04 16:29:55]|     HTTP_XXX_YYY : null
+[2013-11-04 16:29:55]|        PATH_INFO : null
+[2013-11-04 16:29:55]|     QUERY_STRING : null
+[2013-11-04 16:29:55]|        AUTH_TYPE : null
+[2013-11-04 16:29:55]|  SERVER_PROTOCOL : HTTP/1.1
+[2013-11-04 16:29:55]|   REQUEST_METHOD : POST
+[2013-11-04 16:29:55]|   CONTENT_LENGTH : 24
+[2013-11-04 16:29:55]====================================================================================================
+[2013-11-04 16:29:55]WARN  Controller::Controller( 'request', 'response') : There is NO SESSIONS.
+[2013-11-04 16:29:55]INFO  Controller::Controller( 'request', 'response') : [{'method' : 'POST'},{'f_key' : 'ㅇㄹ'},{'JSESSIONID' : 'BB62E3586F5B405B26DB9C5AE7E70F19','PHPSESSID' : 'mth377o9a64nglijc40uflsrg7'},null]
+[2013-11-04 16:29:55]INFO  Database::Database() : Database connection success.
+[2013-11-04 16:29:55]QUERY Database::read( 'SHOW COLUMNS FROM `t_test`;') : Success.
+[2013-11-04 16:29:55]INFO  Model::setTable ( 't_test', 'null') : Table 't_test' read success. => f_idx,{'f_key' : '','f_val' : '','f_idx' : ''}
+[2013-11-04 16:29:55]INFO  Controller::getReq( 'f_key') : ㅇㄹ
+[2013-11-04 16:29:55]QUERY Database::read( 'SELECT f_idx FROM t_test WHERE f_key='ㅇㄹ';') : Success.
+[2013-11-04 16:29:55]INFO  Model::select( 'f_idx', 'WHERE f_key='ㅇㄹ'') : Success => SELECT f_idx FROM t_test WHERE f_key='ㅇㄹ';
+[2013-11-04 16:29:55]====================================================================================================
+[2013-11-04 16:29:55]|     CONTENT_TYPE : application/x-www-form-urlencoded; charset=UTF-8
+[2013-11-04 16:29:55]|  PATH_TRANSLATED : null
+[2013-11-04 16:29:55]|      SERVER_PORT : 9080
+[2013-11-04 16:29:55]|      SCRIPT_NAME : /__controller_backend/dml.test.key.jsp
+[2013-11-04 16:29:55]|      REMOTE_ADDR : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:55]|    DOCUMENT_ROOT : E:\WORK\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\smvcj\
+[2013-11-04 16:29:55]|      REMOTE_HOST : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:55]|  SERVER_SOFTWARE : Apache Tomcat/7.0.42
+[2013-11-04 16:29:55]|      SERVER_NAME : localhost
+[2013-11-04 16:29:55]|      REMOTE_USER : null
+[2013-11-04 16:29:55]|     HTTP_XXX_YYY : null
+[2013-11-04 16:29:55]|        PATH_INFO : null
+[2013-11-04 16:29:55]|     QUERY_STRING : null
+[2013-11-04 16:29:55]|        AUTH_TYPE : null
+[2013-11-04 16:29:55]|  SERVER_PROTOCOL : HTTP/1.1
+[2013-11-04 16:29:55]|   REQUEST_METHOD : POST
+[2013-11-04 16:29:55]|   CONTENT_LENGTH : 15
+[2013-11-04 16:29:55]====================================================================================================
+[2013-11-04 16:29:55]WARN  Controller::Controller( 'request', 'response') : There is NO SESSIONS.
+[2013-11-04 16:29:55]INFO  Controller::Controller( 'request', 'response') : [{'method' : 'POST'},{'f_key' : 'ㅇ'},{'JSESSIONID' : 'BB62E3586F5B405B26DB9C5AE7E70F19','PHPSESSID' : 'mth377o9a64nglijc40uflsrg7'},null]
+[2013-11-04 16:29:55]INFO  Database::Database() : Database connection success.
+[2013-11-04 16:29:55]QUERY Database::read( 'SHOW COLUMNS FROM `t_test`;') : Success.
+[2013-11-04 16:29:55]INFO  Model::setTable ( 't_test', 'null') : Table 't_test' read success. => f_idx,{'f_key' : '','f_val' : '','f_idx' : ''}
+[2013-11-04 16:29:55]INFO  Controller::getReq( 'f_key') : ㅇ
+[2013-11-04 16:29:55]QUERY Database::read( 'SELECT f_idx FROM t_test WHERE f_key='ㅇ';') : Success.
+[2013-11-04 16:29:55]INFO  Model::select( 'f_idx', 'WHERE f_key='ㅇ'') : Success => SELECT f_idx FROM t_test WHERE f_key='ㅇ';
+[2013-11-04 16:29:55]====================================================================================================
+[2013-11-04 16:29:55]|     CONTENT_TYPE : application/x-www-form-urlencoded; charset=UTF-8
+[2013-11-04 16:29:55]|  PATH_TRANSLATED : null
+[2013-11-04 16:29:55]|      SERVER_PORT : 9080
+[2013-11-04 16:29:55]|      SCRIPT_NAME : /__controller_backend/dml.test.key.jsp
+[2013-11-04 16:29:55]|      REMOTE_ADDR : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:55]|    DOCUMENT_ROOT : E:\WORK\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\smvcj\
+[2013-11-04 16:29:55]|      REMOTE_HOST : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:55]|  SERVER_SOFTWARE : Apache Tomcat/7.0.42
+[2013-11-04 16:29:55]|      SERVER_NAME : localhost
+[2013-11-04 16:29:55]|      REMOTE_USER : null
+[2013-11-04 16:29:55]|     HTTP_XXX_YYY : null
+[2013-11-04 16:29:55]|        PATH_INFO : null
+[2013-11-04 16:29:55]|     QUERY_STRING : null
+[2013-11-04 16:29:55]|        AUTH_TYPE : null
+[2013-11-04 16:29:55]|  SERVER_PROTOCOL : HTTP/1.1
+[2013-11-04 16:29:55]|   REQUEST_METHOD : POST
+[2013-11-04 16:29:55]|   CONTENT_LENGTH : 6
+[2013-11-04 16:29:55]====================================================================================================
+[2013-11-04 16:29:55]WARN  Controller::Controller( 'request', 'response') : There is NO SESSIONS.
+[2013-11-04 16:29:55]INFO  Controller::Controller( 'request', 'response') : [{'method' : 'POST'},{'f_key' : ''},{'JSESSIONID' : 'BB62E3586F5B405B26DB9C5AE7E70F19','PHPSESSID' : 'mth377o9a64nglijc40uflsrg7'},null]
+[2013-11-04 16:29:55]INFO  Database::Database() : Database connection success.
+[2013-11-04 16:29:55]QUERY Database::read( 'SHOW COLUMNS FROM `t_test`;') : Success.
+[2013-11-04 16:29:55]INFO  Model::setTable ( 't_test', 'null') : Table 't_test' read success. => f_idx,{'f_key' : '','f_val' : '','f_idx' : ''}
+[2013-11-04 16:29:55]INFO  Controller::getReq( 'f_key') : 
+[2013-11-04 16:29:55]QUERY Database::read( 'SELECT f_idx FROM t_test WHERE f_key='';') : Success.
+[2013-11-04 16:29:55]INFO  Model::select( 'f_idx', 'WHERE f_key=''') : Success => SELECT f_idx FROM t_test WHERE f_key='';
+[2013-11-04 16:29:55]====================================================================================================
+[2013-11-04 16:29:55]|     CONTENT_TYPE : application/x-www-form-urlencoded; charset=UTF-8
+[2013-11-04 16:29:55]|  PATH_TRANSLATED : null
+[2013-11-04 16:29:55]|      SERVER_PORT : 9080
+[2013-11-04 16:29:55]|      SCRIPT_NAME : /__controller_backend/dml.test.key.jsp
+[2013-11-04 16:29:55]|      REMOTE_ADDR : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:55]|    DOCUMENT_ROOT : E:\WORK\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\smvcj\
+[2013-11-04 16:29:56]|      REMOTE_HOST : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:56]|  SERVER_SOFTWARE : Apache Tomcat/7.0.42
+[2013-11-04 16:29:56]|      SERVER_NAME : localhost
+[2013-11-04 16:29:56]|      REMOTE_USER : null
+[2013-11-04 16:29:56]|     HTTP_XXX_YYY : null
+[2013-11-04 16:29:56]|        PATH_INFO : null
+[2013-11-04 16:29:56]|     QUERY_STRING : null
+[2013-11-04 16:29:56]|        AUTH_TYPE : null
+[2013-11-04 16:29:56]|  SERVER_PROTOCOL : HTTP/1.1
+[2013-11-04 16:29:56]|   REQUEST_METHOD : POST
+[2013-11-04 16:29:56]|   CONTENT_LENGTH : 15
+[2013-11-04 16:29:56]====================================================================================================
+[2013-11-04 16:29:56]WARN  Controller::Controller( 'request', 'response') : There is NO SESSIONS.
+[2013-11-04 16:29:56]INFO  Controller::Controller( 'request', 'response') : [{'method' : 'POST'},{'f_key' : 'ㅇ'},{'JSESSIONID' : 'BB62E3586F5B405B26DB9C5AE7E70F19','PHPSESSID' : 'mth377o9a64nglijc40uflsrg7'},null]
+[2013-11-04 16:29:56]INFO  Database::Database() : Database connection success.
+[2013-11-04 16:29:56]QUERY Database::read( 'SHOW COLUMNS FROM `t_test`;') : Success.
+[2013-11-04 16:29:56]INFO  Model::setTable ( 't_test', 'null') : Table 't_test' read success. => f_idx,{'f_key' : '','f_val' : '','f_idx' : ''}
+[2013-11-04 16:29:56]INFO  Controller::getReq( 'f_key') : ㅇ
+[2013-11-04 16:29:56]QUERY Database::read( 'SELECT f_idx FROM t_test WHERE f_key='ㅇ';') : Success.
+[2013-11-04 16:29:56]INFO  Model::select( 'f_idx', 'WHERE f_key='ㅇ'') : Success => SELECT f_idx FROM t_test WHERE f_key='ㅇ';
+[2013-11-04 16:29:56]====================================================================================================
+[2013-11-04 16:29:56]|     CONTENT_TYPE : application/x-www-form-urlencoded; charset=UTF-8
+[2013-11-04 16:29:56]|  PATH_TRANSLATED : null
+[2013-11-04 16:29:56]|      SERVER_PORT : 9080
+[2013-11-04 16:29:56]|      SCRIPT_NAME : /__controller_backend/dml.test.key.jsp
+[2013-11-04 16:29:56]|      REMOTE_ADDR : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:56]|    DOCUMENT_ROOT : E:\WORK\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\smvcj\
+[2013-11-04 16:29:56]|      REMOTE_HOST : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:56]|  SERVER_SOFTWARE : Apache Tomcat/7.0.42
+[2013-11-04 16:29:56]|      SERVER_NAME : localhost
+[2013-11-04 16:29:56]|      REMOTE_USER : null
+[2013-11-04 16:29:56]|     HTTP_XXX_YYY : null
+[2013-11-04 16:29:56]|        PATH_INFO : null
+[2013-11-04 16:29:56]|     QUERY_STRING : null
+[2013-11-04 16:29:56]|        AUTH_TYPE : null
+[2013-11-04 16:29:56]|  SERVER_PROTOCOL : HTTP/1.1
+[2013-11-04 16:29:56]|   REQUEST_METHOD : POST
+[2013-11-04 16:29:56]|   CONTENT_LENGTH : 15
+[2013-11-04 16:29:56]====================================================================================================
+[2013-11-04 16:29:56]WARN  Controller::Controller( 'request', 'response') : There is NO SESSIONS.
+[2013-11-04 16:29:56]INFO  Controller::Controller( 'request', 'response') : [{'method' : 'POST'},{'f_key' : '이'},{'JSESSIONID' : 'BB62E3586F5B405B26DB9C5AE7E70F19','PHPSESSID' : 'mth377o9a64nglijc40uflsrg7'},null]
+[2013-11-04 16:29:56]INFO  Database::Database() : Database connection success.
+[2013-11-04 16:29:56]QUERY Database::read( 'SHOW COLUMNS FROM `t_test`;') : Success.
+[2013-11-04 16:29:56]INFO  Model::setTable ( 't_test', 'null') : Table 't_test' read success. => f_idx,{'f_key' : '','f_val' : '','f_idx' : ''}
+[2013-11-04 16:29:56]INFO  Controller::getReq( 'f_key') : 이
+[2013-11-04 16:29:56]QUERY Database::read( 'SELECT f_idx FROM t_test WHERE f_key='이';') : Success.
+[2013-11-04 16:29:56]INFO  Model::select( 'f_idx', 'WHERE f_key='이'') : Success => SELECT f_idx FROM t_test WHERE f_key='이';
+[2013-11-04 16:29:56]====================================================================================================
+[2013-11-04 16:29:56]|     CONTENT_TYPE : application/x-www-form-urlencoded; charset=UTF-8
+[2013-11-04 16:29:56]|  PATH_TRANSLATED : null
+[2013-11-04 16:29:56]|      SERVER_PORT : 9080
+[2013-11-04 16:29:56]|      SCRIPT_NAME : /__controller_backend/dml.test.key.jsp
+[2013-11-04 16:29:56]|      REMOTE_ADDR : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:56]|    DOCUMENT_ROOT : E:\WORK\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\smvcj\
+[2013-11-04 16:29:56]|      REMOTE_HOST : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:56]|  SERVER_SOFTWARE : Apache Tomcat/7.0.42
+[2013-11-04 16:29:56]|      SERVER_NAME : localhost
+[2013-11-04 16:29:56]|      REMOTE_USER : null
+[2013-11-04 16:29:56]|     HTTP_XXX_YYY : null
+[2013-11-04 16:29:56]|        PATH_INFO : null
+[2013-11-04 16:29:56]|     QUERY_STRING : null
+[2013-11-04 16:29:56]|        AUTH_TYPE : null
+[2013-11-04 16:29:56]|  SERVER_PROTOCOL : HTTP/1.1
+[2013-11-04 16:29:56]|   REQUEST_METHOD : POST
+[2013-11-04 16:29:56]|   CONTENT_LENGTH : 15
+[2013-11-04 16:29:56]====================================================================================================
+[2013-11-04 16:29:56]WARN  Controller::Controller( 'request', 'response') : There is NO SESSIONS.
+[2013-11-04 16:29:56]INFO  Controller::Controller( 'request', 'response') : [{'method' : 'POST'},{'f_key' : '일'},{'JSESSIONID' : 'BB62E3586F5B405B26DB9C5AE7E70F19','PHPSESSID' : 'mth377o9a64nglijc40uflsrg7'},null]
+[2013-11-04 16:29:56]INFO  Database::Database() : Database connection success.
+[2013-11-04 16:29:56]QUERY Database::read( 'SHOW COLUMNS FROM `t_test`;') : Success.
+[2013-11-04 16:29:56]INFO  Model::setTable ( 't_test', 'null') : Table 't_test' read success. => f_idx,{'f_key' : '','f_val' : '','f_idx' : ''}
+[2013-11-04 16:29:56]INFO  Controller::getReq( 'f_key') : 일
+[2013-11-04 16:29:56]QUERY Database::read( 'SELECT f_idx FROM t_test WHERE f_key='일';') : Success.
+[2013-11-04 16:29:56]INFO  Model::select( 'f_idx', 'WHERE f_key='일'') : Success => SELECT f_idx FROM t_test WHERE f_key='일';
+[2013-11-04 16:29:56]====================================================================================================
+[2013-11-04 16:29:56]|     CONTENT_TYPE : application/x-www-form-urlencoded; charset=UTF-8
+[2013-11-04 16:29:56]|  PATH_TRANSLATED : null
+[2013-11-04 16:29:56]|      SERVER_PORT : 9080
+[2013-11-04 16:29:56]|      SCRIPT_NAME : /__controller_backend/dml.test.key.jsp
+[2013-11-04 16:29:56]|      REMOTE_ADDR : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:56]|    DOCUMENT_ROOT : E:\WORK\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\smvcj\
+[2013-11-04 16:29:56]|      REMOTE_HOST : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:56]|  SERVER_SOFTWARE : Apache Tomcat/7.0.42
+[2013-11-04 16:29:56]|      SERVER_NAME : localhost
+[2013-11-04 16:29:56]|      REMOTE_USER : null
+[2013-11-04 16:29:56]|     HTTP_XXX_YYY : null
+[2013-11-04 16:29:56]|        PATH_INFO : null
+[2013-11-04 16:29:56]|     QUERY_STRING : null
+[2013-11-04 16:29:56]|        AUTH_TYPE : null
+[2013-11-04 16:29:56]|  SERVER_PROTOCOL : HTTP/1.1
+[2013-11-04 16:29:56]|   REQUEST_METHOD : POST
+[2013-11-04 16:29:56]|   CONTENT_LENGTH : 24
+[2013-11-04 16:29:56]====================================================================================================
+[2013-11-04 16:29:56]WARN  Controller::Controller( 'request', 'response') : There is NO SESSIONS.
+[2013-11-04 16:29:56]INFO  Controller::Controller( 'request', 'response') : [{'method' : 'POST'},{'f_key' : '이르'},{'JSESSIONID' : 'BB62E3586F5B405B26DB9C5AE7E70F19','PHPSESSID' : 'mth377o9a64nglijc40uflsrg7'},null]
+[2013-11-04 16:29:56]INFO  Database::Database() : Database connection success.
+[2013-11-04 16:29:56]QUERY Database::read( 'SHOW COLUMNS FROM `t_test`;') : Success.
+[2013-11-04 16:29:56]INFO  Model::setTable ( 't_test', 'null') : Table 't_test' read success. => f_idx,{'f_key' : '','f_val' : '','f_idx' : ''}
+[2013-11-04 16:29:56]INFO  Controller::getReq( 'f_key') : 이르
+[2013-11-04 16:29:56]QUERY Database::read( 'SELECT f_idx FROM t_test WHERE f_key='이르';') : Success.
+[2013-11-04 16:29:56]INFO  Model::select( 'f_idx', 'WHERE f_key='이르'') : Success => SELECT f_idx FROM t_test WHERE f_key='이르';
+[2013-11-04 16:29:56]====================================================================================================
+[2013-11-04 16:29:56]|     CONTENT_TYPE : application/x-www-form-urlencoded; charset=UTF-8
+[2013-11-04 16:29:56]|  PATH_TRANSLATED : null
+[2013-11-04 16:29:56]|      SERVER_PORT : 9080
+[2013-11-04 16:29:56]|      SCRIPT_NAME : /__controller_backend/dml.test.key.jsp
+[2013-11-04 16:29:56]|      REMOTE_ADDR : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:56]|    DOCUMENT_ROOT : E:\WORK\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\smvcj\
+[2013-11-04 16:29:56]|      REMOTE_HOST : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:56]|  SERVER_SOFTWARE : Apache Tomcat/7.0.42
+[2013-11-04 16:29:56]|      SERVER_NAME : localhost
+[2013-11-04 16:29:56]|      REMOTE_USER : null
+[2013-11-04 16:29:56]|     HTTP_XXX_YYY : null
+[2013-11-04 16:29:56]|        PATH_INFO : null
+[2013-11-04 16:29:56]|     QUERY_STRING : null
+[2013-11-04 16:29:56]|        AUTH_TYPE : null
+[2013-11-04 16:29:56]|  SERVER_PROTOCOL : HTTP/1.1
+[2013-11-04 16:29:56]|   REQUEST_METHOD : POST
+[2013-11-04 16:29:56]|   CONTENT_LENGTH : 24
+[2013-11-04 16:29:56]====================================================================================================
+[2013-11-04 16:29:56]WARN  Controller::Controller( 'request', 'response') : There is NO SESSIONS.
+[2013-11-04 16:29:56]INFO  Controller::Controller( 'request', 'response') : [{'method' : 'POST'},{'f_key' : '이름'},{'JSESSIONID' : 'BB62E3586F5B405B26DB9C5AE7E70F19','PHPSESSID' : 'mth377o9a64nglijc40uflsrg7'},null]
+[2013-11-04 16:29:56]INFO  Database::Database() : Database connection success.
+[2013-11-04 16:29:56]QUERY Database::read( 'SHOW COLUMNS FROM `t_test`;') : Success.
+[2013-11-04 16:29:56]INFO  Model::setTable ( 't_test', 'null') : Table 't_test' read success. => f_idx,{'f_key' : '','f_val' : '','f_idx' : ''}
+[2013-11-04 16:29:56]INFO  Controller::getReq( 'f_key') : 이름
+[2013-11-04 16:29:56]QUERY Database::read( 'SELECT f_idx FROM t_test WHERE f_key='이름';') : Success.
+[2013-11-04 16:29:56]INFO  Model::select( 'f_idx', 'WHERE f_key='이름'') : Success => SELECT f_idx FROM t_test WHERE f_key='이름';
+[2013-11-04 16:29:58]====================================================================================================
+[2013-11-04 16:29:58]|     CONTENT_TYPE : null
+[2013-11-04 16:29:58]|  PATH_TRANSLATED : null
+[2013-11-04 16:29:58]|      SERVER_PORT : 9080
+[2013-11-04 16:29:58]|      SCRIPT_NAME : /dml.test.jsp
+[2013-11-04 16:29:59]|      REMOTE_ADDR : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:59]|    DOCUMENT_ROOT : E:\WORK\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\smvcj\
+[2013-11-04 16:29:59]|      REMOTE_HOST : 0:0:0:0:0:0:0:1
+[2013-11-04 16:29:59]|  SERVER_SOFTWARE : Apache Tomcat/7.0.42
+[2013-11-04 16:29:59]|      SERVER_NAME : localhost
+[2013-11-04 16:29:59]|      REMOTE_USER : null
+[2013-11-04 16:29:59]|     HTTP_XXX_YYY : null
+[2013-11-04 16:29:59]|        PATH_INFO : null
+[2013-11-04 16:29:59]|     QUERY_STRING : search_key=%EC%9D%B4%EB%A6%84
+[2013-11-04 16:29:59]|        AUTH_TYPE : null
+[2013-11-04 16:29:59]|  SERVER_PROTOCOL : HTTP/1.1
+[2013-11-04 16:29:59]|   REQUEST_METHOD : GET
+[2013-11-04 16:29:59]|   CONTENT_LENGTH : -1
+[2013-11-04 16:29:59]====================================================================================================
+[2013-11-04 16:29:59]WARN  Controller::Controller( 'request', 'response') : There is NO SESSIONS.
+[2013-11-04 16:29:59]INFO  Controller::Controller( 'request', 'response') : [{'method' : 'GET'},{'search_key' : '이름'},{'JSESSIONID' : 'BB62E3586F5B405B26DB9C5AE7E70F19','PHPSESSID' : 'mth377o9a64nglijc40uflsrg7'},null]
+[2013-11-04 16:29:59]INFO  Controller::getReq( 'search_key') : 이름
+[2013-11-04 16:29:59]INFO  Controller::getReq( 'search_key') : 이름
+[2013-11-04 16:29:59]INFO  Database::Database() : Database connection success.
+[2013-11-04 16:29:59]QUERY Database::read( 'SHOW COLUMNS FROM `t_test`;') : Success.
+[2013-11-04 16:29:59]INFO  Model::setTable ( 't_test', 'null') : Table 't_test' read success. => f_idx,{'f_key' : '','f_val' : '','f_idx' : ''}
+[2013-11-04 16:29:59]QUERY Database::read( 'SELECT f_key,f_val,f_idx FROM t_test WHERE f_key='이름' ;') : Success.
+[2013-11-04 16:29:59]INFO  Model::select( '', 'WHERE f_key='이름' ') : Success => SELECT f_key,f_val,f_idx FROM t_test WHERE f_key='이름' ;
+[2013-11-04 16:30:03]====================================================================================================
+[2013-11-04 16:30:03]|     CONTENT_TYPE : application/x-www-form-urlencoded; charset=UTF-8
+[2013-11-04 16:30:03]|  PATH_TRANSLATED : null
+[2013-11-04 16:30:03]|      SERVER_PORT : 9080
+[2013-11-04 16:30:03]|      SCRIPT_NAME : /__controller_backend/dml.test.key.jsp
+[2013-11-04 16:30:03]|      REMOTE_ADDR : 0:0:0:0:0:0:0:1
+[2013-11-04 16:30:03]|    DOCUMENT_ROOT : E:\WORK\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\smvcj\
+[2013-11-04 16:30:03]|      REMOTE_HOST : 0:0:0:0:0:0:0:1
+[2013-11-04 16:30:03]|  SERVER_SOFTWARE : Apache Tomcat/7.0.42
+[2013-11-04 16:30:03]|      SERVER_NAME : localhost
+[2013-11-04 16:30:03]|      REMOTE_USER : null
+[2013-11-04 16:30:03]|     HTTP_XXX_YYY : null
+[2013-11-04 16:30:03]|        PATH_INFO : null
+[2013-11-04 16:30:03]|     QUERY_STRING : null
+[2013-11-04 16:30:03]|        AUTH_TYPE : null
+[2013-11-04 16:30:03]|  SERVER_PROTOCOL : HTTP/1.1
+[2013-11-04 16:30:03]|   REQUEST_METHOD : POST
+[2013-11-04 16:30:03]|   CONTENT_LENGTH : 15
+[2013-11-04 16:30:03]====================================================================================================
+[2013-11-04 16:30:03]WARN  Controller::Controller( 'request', 'response') : There is NO SESSIONS.
+[2013-11-04 16:30:03]INFO  Controller::Controller( 'request', 'response') : [{'method' : 'POST'},{'f_key' : '이'},{'JSESSIONID' : 'BB62E3586F5B405B26DB9C5AE7E70F19','PHPSESSID' : 'mth377o9a64nglijc40uflsrg7'},null]
+[2013-11-04 16:30:03]INFO  Database::Database() : Database connection success.
+[2013-11-04 16:30:03]QUERY Database::read( 'SHOW COLUMNS FROM `t_test`;') : Success.
+[2013-11-04 16:30:03]INFO  Model::setTable ( 't_test', 'null') : Table 't_test' read success. => f_idx,{'f_key' : '','f_val' : '','f_idx' : ''}
+[2013-11-04 16:30:03]INFO  Controller::getReq( 'f_key') : 이
+[2013-11-04 16:30:03]QUERY Database::read( 'SELECT f_idx FROM t_test WHERE f_key='이';') : Success.
+[2013-11-04 16:30:03]INFO  Model::select( 'f_idx', 'WHERE f_key='이'') : Success => SELECT f_idx FROM t_test WHERE f_key='이';
+[2013-11-04 16:30:03]====================================================================================================
+[2013-11-04 16:30:03]|     CONTENT_TYPE : application/x-www-form-urlencoded; charset=UTF-8
+[2013-11-04 16:30:03]|  PATH_TRANSLATED : null
+[2013-11-04 16:30:03]|      SERVER_PORT : 9080
+[2013-11-04 16:30:03]|      SCRIPT_NAME : /__controller_backend/dml.test.key.jsp
+[2013-11-04 16:30:03]|      REMOTE_ADDR : 0:0:0:0:0:0:0:1
+[2013-11-04 16:30:03]|    DOCUMENT_ROOT : E:\WORK\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\smvcj\
+[2013-11-04 16:30:03]|      REMOTE_HOST : 0:0:0:0:0:0:0:1
+[2013-11-04 16:30:03]|  SERVER_SOFTWARE : Apache Tomcat/7.0.42
+[2013-11-04 16:30:03]|      SERVER_NAME : localhost
+[2013-11-04 16:30:03]|      REMOTE_USER : null
+[2013-11-04 16:30:03]|     HTTP_XXX_YYY : null
+[2013-11-04 16:30:03]|        PATH_INFO : null
+[2013-11-04 16:30:03]|     QUERY_STRING : null
+[2013-11-04 16:30:03]|        AUTH_TYPE : null
+[2013-11-04 16:30:03]|  SERVER_PROTOCOL : HTTP/1.1
+[2013-11-04 16:30:03]|   REQUEST_METHOD : POST
+[2013-11-04 16:30:03]|   CONTENT_LENGTH : 6
+[2013-11-04 16:30:03]====================================================================================================
+[2013-11-04 16:30:03]====================================================================================================
+[2013-11-04 16:30:03]|     CONTENT_TYPE : application/x-www-form-urlencoded; charset=UTF-8
+[2013-11-04 16:30:03]|  PATH_TRANSLATED : null
+[2013-11-04 16:30:03]WARN  Controller::Controller( 'request', 'response') : There is NO SESSIONS.
+[2013-11-04 16:30:03]|      SERVER_PORT : 9080
+[2013-11-04 16:30:03]INFO  Controller::Controller( 'request', 'response') : [{'method' : 'POST'},{'f_key' : ''},{'JSESSIONID' : 'BB62E3586F5B405B26DB9C5AE7E70F19','PHPSESSID' : 'mth377o9a64nglijc40uflsrg7'},null]
+[2013-11-04 16:30:03]|      SCRIPT_NAME : /__controller_backend/dml.test.key.jsp
+[2013-11-04 16:30:03]|      REMOTE_ADDR : 0:0:0:0:0:0:0:1
+[2013-11-04 16:30:03]|    DOCUMENT_ROOT : E:\WORK\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\smvcj\
+[2013-11-04 16:30:03]|      REMOTE_HOST : 0:0:0:0:0:0:0:1
+[2013-11-04 16:30:03]|  SERVER_SOFTWARE : Apache Tomcat/7.0.42
+[2013-11-04 16:30:03]INFO  Database::Database() : Database connection success.
+[2013-11-04 16:30:03]|      SERVER_NAME : localhost
+[2013-11-04 16:30:03]|      REMOTE_USER : null
+[2013-11-04 16:30:03]QUERY Database::read( 'SHOW COLUMNS FROM `t_test`;') : Success.
+[2013-11-04 16:30:03]INFO  Model::setTable ( 't_test', 'null') : Table 't_test' read success. => f_idx,{'f_key' : '','f_val' : '','f_idx' : ''}
+[2013-11-04 16:30:03]|     HTTP_XXX_YYY : null
+[2013-11-04 16:30:03]INFO  Controller::getReq( 'f_key') : 
+[2013-11-04 16:30:03]|        PATH_INFO : null
+[2013-11-04 16:30:03]|     QUERY_STRING : null
+[2013-11-04 16:30:03]QUERY Database::read( 'SELECT f_idx FROM t_test WHERE f_key='';') : Success.
+[2013-11-04 16:30:03]INFO  Model::select( 'f_idx', 'WHERE f_key=''') : Success => SELECT f_idx FROM t_test WHERE f_key='';
+[2013-11-04 16:30:03]|        AUTH_TYPE : null
+[2013-11-04 16:30:03]|  SERVER_PROTOCOL : HTTP/1.1
+[2013-11-04 16:30:03]|   REQUEST_METHOD : POST
+[2013-11-04 16:30:03]|   CONTENT_LENGTH : 6
+[2013-11-04 16:30:03]====================================================================================================
+[2013-11-04 16:30:03]WARN  Controller::Controller( 'request', 'response') : There is NO SESSIONS.
+[2013-11-04 16:30:03]INFO  Controller::Controller( 'request', 'response') : [{'method' : 'POST'},{'f_key' : ''},{'JSESSIONID' : 'BB62E3586F5B405B26DB9C5AE7E70F19','PHPSESSID' : 'mth377o9a64nglijc40uflsrg7'},null]
+[2013-11-04 16:30:03]INFO  Database::Database() : Database connection success.
+[2013-11-04 16:30:03]QUERY Database::read( 'SHOW COLUMNS FROM `t_test`;') : Success.
+[2013-11-04 16:30:03]INFO  Model::setTable ( 't_test', 'null') : Table 't_test' read success. => f_idx,{'f_key' : '','f_val' : '','f_idx' : ''}
+[2013-11-04 16:30:03]INFO  Controller::getReq( 'f_key') : 
+[2013-11-04 16:30:03]QUERY Database::read( 'SELECT f_idx FROM t_test WHERE f_key='';') : Success.
+[2013-11-04 16:30:03]INFO  Model::select( 'f_idx', 'WHERE f_key=''') : Success => SELECT f_idx FROM t_test WHERE f_key='';
+[2013-11-04 16:30:04]====================================================================================================
+[2013-11-04 16:30:04]|     CONTENT_TYPE : null
+[2013-11-04 16:30:04]|  PATH_TRANSLATED : null
+[2013-11-04 16:30:04]|      SERVER_PORT : 9080
+[2013-11-04 16:30:04]|      SCRIPT_NAME : /dml.test.jsp
+[2013-11-04 16:30:04]|      REMOTE_ADDR : 0:0:0:0:0:0:0:1
+[2013-11-04 16:30:04]|    DOCUMENT_ROOT : E:\WORK\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\smvcj\
+[2013-11-04 16:30:04]|      REMOTE_HOST : 0:0:0:0:0:0:0:1
+[2013-11-04 16:30:04]|  SERVER_SOFTWARE : Apache Tomcat/7.0.42
+[2013-11-04 16:30:04]|      SERVER_NAME : localhost
+[2013-11-04 16:30:04]|      REMOTE_USER : null
+[2013-11-04 16:30:04]|     HTTP_XXX_YYY : null
+[2013-11-04 16:30:04]|        PATH_INFO : null
+[2013-11-04 16:30:04]|     QUERY_STRING : search_key=
+[2013-11-04 16:30:04]|        AUTH_TYPE : null
+[2013-11-04 16:30:04]|  SERVER_PROTOCOL : HTTP/1.1
+[2013-11-04 16:30:04]|   REQUEST_METHOD : GET
+[2013-11-04 16:30:04]|   CONTENT_LENGTH : -1
+[2013-11-04 16:30:04]====================================================================================================
+[2013-11-04 16:30:04]WARN  Controller::Controller( 'request', 'response') : There is NO SESSIONS.
+[2013-11-04 16:30:04]INFO  Controller::Controller( 'request', 'response') : [{'method' : 'GET'},{'search_key' : ''},{'JSESSIONID' : 'BB62E3586F5B405B26DB9C5AE7E70F19','PHPSESSID' : 'mth377o9a64nglijc40uflsrg7'},null]
+[2013-11-04 16:30:04]INFO  Controller::getReq( 'search_key') : 
+[2013-11-04 16:30:04]INFO  Controller::getReq( 'search_key') : 
+[2013-11-04 16:30:04]INFO  Database::Database() : Database connection success.
+[2013-11-04 16:30:04]QUERY Database::read( 'SHOW COLUMNS FROM `t_test`;') : Success.
+[2013-11-04 16:30:04]INFO  Model::setTable ( 't_test', 'null') : Table 't_test' read success. => f_idx,{'f_key' : '','f_val' : '','f_idx' : ''}
+[2013-11-04 16:30:04]WARN  Model::getPKVal : Primary key value is empty.
+[2013-11-04 16:30:04]WARN  Model::getPKVal : Primary key value is empty.
+[2013-11-04 16:30:04]QUERY Database::read( 'SELECT f_key,f_val,f_idx FROM t_test ;') : Success.
+[2013-11-04 16:30:04]INFO  Model::select( '', '') : Success => SELECT f_key,f_val,f_idx FROM t_test ;
