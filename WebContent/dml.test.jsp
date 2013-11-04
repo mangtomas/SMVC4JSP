@@ -7,9 +7,7 @@ pageEncoding = "UTF-8"
 <jsp:include page="./inc.menu.jsp" flush="false"/>
 
 <!-- SCRIPT { -->
-<script>
 <jsp:include page="./__controller_ui/dml.test.jsp"/>
-</script>
 <!-- } SCRIPT -->
 
 <!-- CONTENTS { -->

@@ -1,10 +1,11 @@
 <%@page
-import= "java.util.HashMap"
-import= "java.util.ArrayList"
+import = "java.util.HashMap"
+import = "java.util.ArrayList"
 
-import= "smvcj.Config"
-import= "smvcj.Controller"
-import= "models.Test"
+import = "smvcj.Util"
+import = "smvcj.Config"
+import = "smvcj.Controller"
+import = "models.Test"
 
 language     = "java"
 pageEncoding = "UTF-8"
@@ -25,9 +26,35 @@ HashMap< String, String> map  = new HashMap< String, String>();
 
 map.put( "search_key", search_key);
 
-out.println( ictl.vars2input( map));
-out.println( ictl.makeTable ( "list", "f_idx", info));
+//out.println( ictl.vars2input( map));
+//out.println( ictl.makeTable ( "list", "f_idx", info));
+
+Util util = new Util();
+
+String varsJSON = util.hashMapToJSON( map);
+String infoJSON = util.arrayListHashMapToJSON( info);
 %>
+<script>
+//////////////////////////////////////////////////
+//
+//	Initial
+//
+//////////////////////////////////////////////////
+
+$(function(){
+	<%= "var json = " +varsJSON+ "\n" %>
+	json2dom( json);
+	
+	<%= "var info = " +infoJSON+ "\n" %>
+	$( "#list").makeList( "f_idx", info);
+});
+
+//////////////////////////////////////////////////
+//
+//	Controll
+//
+//////////////////////////////////////////////////
+
 $(function(){
 	$( "#btn_add").click(function(){
 		var tmp;
@@ -124,3 +151,4 @@ $(function(){
 		});
 	});
 });
+</script>
