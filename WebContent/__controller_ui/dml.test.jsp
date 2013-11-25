@@ -10,7 +10,7 @@ import = "models.Test"
 language     = "java"
 pageEncoding = "UTF-8"
 %><%
-Config      cfg = new Config();
+Config      cfg = Config.getInstance();
 
 Controller ictl = new Controller( request, response);
 

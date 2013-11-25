@@ -6,6 +6,7 @@ import java.util.Locale;
 
 public class Config
 {
+	private volatile static Config Instance = new Config();
 
 	//Document root path
 	public String __DOC_ROOT__;
@@ -68,5 +69,10 @@ public class Config
 		__IMG__                = __SERVICE_HOST__ + "img";
 		__JS__                 = __SERVICE_HOST__ + "js";
 
+	}
+
+	public static Config getInstance()
+	{
+		return Instance;
 	}
 }

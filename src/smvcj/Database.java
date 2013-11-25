@@ -35,7 +35,7 @@ public class Database{
 
 		try
 		{
-			Config cfg = new Config();
+			Config cfg = Config.getInstance();
 
 			conn   = DriverManager.getConnection( "jdbc:mysql://" +cfg.__DB_HOST__+ "/" +cfg.__DB_NAME__, cfg.__DB_USER__, cfg.__DB_PASS__);
 
